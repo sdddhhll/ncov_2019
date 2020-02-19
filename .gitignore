@@ -1,6 +1,5 @@
 .idea
 .classpath
-.project
 *.iml
 *.eml
 target
@@ -9,5 +8,4 @@ target
 .DS_Store
 *.cache
 *.lock
-/bin/*
 *.settings
